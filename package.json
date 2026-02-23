@@ -21,6 +21,7 @@
     "check": "biome check"
   },
   "dependencies": {
+    "@cloudflare/kumo": "^1.7.0",
     "@cloudflare/vite-plugin": "^1.13.8",
     "@modelcontextprotocol/sdk": "^1.17.0",
     "@tailwindcss/vite": "^4.1.18",
