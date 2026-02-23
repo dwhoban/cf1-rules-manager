@@ -1,0 +1,29 @@
+{
+  "initialized": true,
+  "mode": "file-router",
+  "projectName": "cf1-rules-manager",
+  "typescript": true,
+  "tailwind": true,
+  "git": true,
+  "addOnOptions": {
+    "drizzle": {
+      "database": "sqlite"
+    }
+  },
+  "packageManager": "pnpm",
+  "install": true,
+  "includeExamples": true,
+  "envVarValues": {},
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "cloudflare",
+    "ai",
+    "drizzle",
+    "form",
+    "mcp",
+    "store",
+    "tanstack-query",
+    "biome"
+  ]
+}
